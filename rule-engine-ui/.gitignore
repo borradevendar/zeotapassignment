@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+../rule-engine-backend/nodemodules
 
 # testing
 /coverage
